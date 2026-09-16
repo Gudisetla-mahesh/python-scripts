@@ -1,0 +1,12 @@
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+experience = float(input("Enter your experience: "))
+current_lpa = float(input("Enter your current LPA: "))
+expected_lpa = float(input("Enter your expected LPA: "))
+
+print("----- Employee Details -----")
+print("Name:", name)
+print("Age:", age)
+print("Experience:", experience)
+print("Current LPA:", current_lpa)
+print("Expected LPA:", expected_lpa)
